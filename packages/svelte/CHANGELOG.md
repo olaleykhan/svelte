@@ -1,5 +1,19 @@
 # svelte
 
+## 5.0.0-next.152
+
+### Patch Changes
+
+- fix: more robust handling of events in spread attributes ([#11942](https://github.com/sveltejs/svelte/pull/11942))
+
+- feat: simpler `<svelte:element> hydration ([#11773](https://github.com/sveltejs/svelte/pull/11773))
+
+- fix: make `legacy.componentApi` option more visible ([#11924](https://github.com/sveltejs/svelte/pull/11924))
+
+- feat: always create wrapper `<div>` for `<svelte:component>` with CSS custom properties ([#11792](https://github.com/sveltejs/svelte/pull/11792))
+
+- feat: add svelte/events package and export `on` function ([#11912](https://github.com/sveltejs/svelte/pull/11912))
+
 ## 5.0.0-next.151
 
 ### Patch Changes
